@@ -1,0 +1,17 @@
+{
+    "folders": 
+    [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        // ...
+        "python_interpreter": "/Users/bryan/.venv/astroenv/bin/python",
+
+        "python_package_paths": [
+            "/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/",
+            ]
+    }
+}
+

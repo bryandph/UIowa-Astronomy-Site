@@ -10,32 +10,26 @@ PASSWORD = 'password'
 app = Flask(__name__)
 app.config.from_object(__name__)
 
-# os.chdir("/Users/bryan/Desktop/markdownApp")
-mdcontentroot = "mdcontent/"
-pages, menus = rake_md_content()
+site_content = SiteGenerator('mdcontent').content_tree
 
 
 @app.route('/')
+@app.route('/home')
 def show_index():
-    with open(mdcontentroot + "index.md", "r") as md:
-        markdn = Markup(pypandoc.convert(md.read(), 'html5', format='md', extra_args=[
-                        "--mathjax"]))
-    return render_template('index.html', current="home", markdn=markdn, menus=menus, pages=pages)
+    try:
+        markdn = Markup(site_content['home'].html.decode("utf8"))
+    except Exception:
+        abort(404)
+    return render_template('index.html', curm="home", curpg="home", markdn=markdn, menus=site_content)
 
 
 @app.route('/<menu>/<page>/')
 def show_page(menu, page):
-    menu, page = str(menu), str(page)
-    if menu not in menus:
+    try:
+        markdn = Markup(site_content[menu.lower()][page.lower()].html.decode("utf8"))
+    except:
         abort(404)
-    else:
-        if (page + ".md") in pages[menu]:
-            with open(mdcontentroot + menu + "/" + page + ".md", "r") as md:
-                markdn = Markup(pypandoc.convert(
-                    md.read(), 'html5', format='md', extra_args=["--mathjax"]))
-        else:
-            abort(404)
-    return render_template('index.html', current=menu, markdn=markdn, menus=menus, pages=pages)
+    return render_template('index.html', curm=menu.lower(), curpg=page.lower(), markdn=markdn, menus=site_content)
 
 if __name__ == '__main__':
     app.run()

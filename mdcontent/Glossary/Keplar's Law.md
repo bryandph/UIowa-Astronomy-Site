@@ -25,10 +25,7 @@ $P = 7\,hr\;39\,min = 7.65\,hr = 27540\,sec$
 $(27540\,sec) ^ 2 = \frac{4 \pi ^ 2}{6.673 \times 10^{-11}\,m^{3}kg^{-1}s^{-2}}(9.38 \times 10^6\,m)^3$
 
 $\frac{(9.38 \times 10^6\,m)^3)}{(27540\,s)^2} \cdot \frac{4 \pi ^ 2}{6.673 \times 10^{-11}\,m^{3}kg^{-1}s^{-2}} = (M_1+M_2)$
-
-$(M_1+M_2) = 6.44 \times 10^23\,kg$
+$(M_1+M_2) = 6.44 \times 10^{23}\,kg$
 
 
 Since the mass of Mars is so much greater than the mass of Phobos, $M_1 + M_2$ is very nearly equal to the mass of Mars, so this is a good estimate.
-
-![example image](/static/mdcontent/kaJoKSq.jpg "An exemplary image")

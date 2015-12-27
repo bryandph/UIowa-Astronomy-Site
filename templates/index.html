@@ -1,45 +1,46 @@
 {% extends "layout.html" %}
-
-{% block navblock %}
-  {% if current == 'home' %}
-    <li class="active"><a href="#">Home</a></li>
+{% block title %}
+  {% if curpg == curm %}
+    Imaging the Universe
   {% else %}
-    <li><a href="/">Home</a></li>
+    {{menus[curm][curpg].displayname + " | Imaging the Universe"}}
   {% endif %}
-
-  {% for m in menus %}
-    {% if current == m %}
-        {% if pages[m] != [] %}
-          <li class="dropdown active">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{m.capitalize()}} <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-            {% for page in pages[m] %}
-              <li><a href=page>{{page.capitalize()}}</a></li>
-            {% endfor %}
-            </ul>
-          </li>
-        {% else %}
-          <li><a href=m>{{m.capitalize()}}</a></li>
-        {% endif %}
+{% endblock %}
+{% block navblock %}
+  {% for p in menus.pgkeys() %}
+    {% if curpg == menus[p].htmlname %}
+      <li class="active"><a href="#">{{menus[p].displayname}}</a></li>
     {% else %}
-              {% if pages[m] != [] %}
-          <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{m.capitalize()}} <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-            {% for page in pages[m] %}
-              <li><a href=page>{{page.capitalize()}}</a></li>
-            {% endfor %}
-            </ul>
-          </li>
-        {% else %}
-          <li><a href=m>{{m.capitalize()}}</a></li>
-        {% endif %}
+      <li><a href={{"/" + menus[p].htmlname}}>{{menus[p].displayname}}</a></li>
     {% endif %}
-  {% endfor %}
-{% endblock %}
-
-{% block content %}
-<div class='col-sm-10 col-md-10 col-md-offset-2 col-lg-8 col-lg-offset-2 markdown-body'>
-  {{ markdn }}
-</div>
-{% endblock %}
+  {% endfor%}
+  {% for m in menus.mkeys() %}
+    {% if menus[m].pgkeys() != []%}
+      {% if curm == menus[m].htmlname %}
+        <li class="dropdown active">
+        {% else %}
+          <li class="dropdown">
+          {% endif %}
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menus[m].displayname}} <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            {% for p in menus[m].pgkeys() %}
+              <li><a href={{"/" + menus[m].htmlname + "/" + menus[m][p].htmlname}}>{{menus[m][p].displayname}}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% else %}
+        <li><a href=#>{{menus[m].displayname}}</a></li>
+      {% endif %}
+    {% endfor%}
+  {% endblock %}
+  {% block content %}
+    {% if curpg == curm %}
+      {{ markdn }}
+    {% else %}
+      <div class="row">
+        <div class='col-sm-10 col-md-10 col-md-offset-2 col-lg-8 col-lg-offset-2'>
+          {{ markdn }}
+        </div>
+      </div>
+    {% endif %}
+  {% endblock %}

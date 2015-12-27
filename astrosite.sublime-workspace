@@ -1,0 +1,1258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"heigh",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width: 〔property〕"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"height",
+				"height: 〔property〕"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"20",
+				"206265"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"Ex",
+				"Exception	class"
+			],
+			[
+				"ex",
+				"Exception	class"
+			],
+			[
+				"html",
+				"htmlname"
+			],
+			[
+				"disp",
+				"displayname"
+			],
+			[
+				"Sit",
+				"SiteGenerator"
+			],
+			[
+				"dir",
+				"dirs	statement"
+			],
+			[
+				"conte",
+				"content_root"
+			],
+			[
+				"r",
+				"retrive_menus	function"
+			],
+			[
+				"ret",
+				"retrive_html	function"
+			],
+			[
+				"corr",
+				"correction	forstmt"
+			],
+			[
+				"correc",
+				"corrections"
+			],
+			[
+				"find",
+				"find_all	function"
+			],
+			[
+				"B",
+				"BeautifulSoup	class"
+			],
+			[
+				"c",
+				"content_root"
+			],
+			[
+				"con",
+				"content_tree"
+			],
+			[
+				"men",
+				"menus"
+			],
+			[
+				"meu",
+				"menus〔variable〕"
+			],
+			[
+				"menu",
+				"menus〔variable〕"
+			],
+			[
+				"M_1",
+				"M_1+M_2"
+			],
+			[
+				"bs3-",
+				"bs3-well	bs3-well"
+			],
+			[
+				"bs3",
+				"bs3-container	bs3-container"
+			],
+			[
+				"mar",
+				"markdown2〔module〕"
+			],
+			[
+				"se",
+				"session〔module〕"
+			],
+			[
+				"conn",
+				"connect_db〔function〕"
+			],
+			[
+				"de",
+				"deptDict〔variable〕"
+			],
+			[
+				"dep",
+				"deptDict〔argument〕"
+			],
+			[
+				"dept",
+				"deptDict"
+			],
+			[
+				"multi",
+				"multipleDefs"
+			],
+			[
+				"bu",
+				"buildClassDict〔function〕"
+			],
+			[
+				"ne",
+				"newDeptDict〔variable〕"
+			],
+			[
+				"cour",
+				"courseDict〔variable〕"
+			],
+			[
+				"course",
+				"courseL〔variable〕"
+			],
+			[
+				"class",
+				"classDict〔variable〕"
+			],
+			[
+				"get",
+				"getattr〔function〕"
+			],
+			[
+				"run",
+				"run_hw_tests〔function〕"
+			],
+			[
+				"fil",
+				"filter_carmichals〔function〕"
+			],
+			[
+				"fl",
+				"fltp_verification〔function〕"
+			],
+			[
+				"ran",
+				"randrange〔function〕"
+			],
+			[
+				"mod",
+				"modOfPowers〔module〕"
+			],
+			[
+				"bs3-htm",
+				"bs3-template:html5	bs3-html5-template"
+			],
+			[
+				"bs3-cd",
+				"bs3-cdn	bs3-cdn"
+			],
+			[
+				"he",
+				"head"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"co",
+				"colors〔variable〕"
+			],
+			[
+				"by",
+				"bytesToRead〔variable〕"
+			],
+			[
+				"clo",
+				"closeDevice"
+			],
+			[
+				"ch",
+				"changeColor〔module〕"
+			],
+			[
+				"res",
+				"resetFunc"
+			],
+			[
+				"byt",
+				"bytes〔class〕"
+			],
+			[
+				"n",
+				"newVals"
+			],
+			[
+				"tr",
+				"traceTrue〔variable〕"
+			],
+			[
+				"t",
+				"tstrt"
+			],
+			[
+				"infe",
+				"infectedT〔variable〕"
+			],
+			[
+				"layo",
+				"layouts〔variable〕"
+			],
+			[
+				"df",
+				"dfsG"
+			],
+			[
+				"ar",
+				"articV"
+			],
+			[
+				"gr",
+				"__graphvizGen〔function〕"
+			],
+			[
+				"dfs",
+				"dfsRepr"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"V",
+				"Vlab"
+			],
+			[
+				"sam",
+				"samG〔variable〕"
+			],
+			[
+				"DF",
+				"DFSarticulation〔class〕"
+			],
+			[
+				"sa",
+				"sampGraph〔class〕"
+			],
+			[
+				"K",
+				"KeyError〔class〕"
+			],
+			[
+				"dia",
+				"diameterG〔variable〕"
+			],
+			[
+				"graph",
+				"graphDiameter"
+			],
+			[
+				"file",
+				"filein〔argument〕"
+			],
+			[
+				"exp",
+				"exploop"
+			],
+			[
+				"fac",
+				"factorial"
+			],
+			[
+				"pow",
+				"power"
+			],
+			[
+				"fact",
+				"factloop"
+			],
+			[
+				"lon",
+				"longest〔variable〕"
+			],
+			[
+				"distan",
+				"distanceG〔variable〕"
+			],
+			[
+				"dis",
+				"distanceG〔variable〕"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"bfs",
+				"bfs_AdjMatrix〔function〕"
+			],
+			[
+				"byte",
+				"bytematrix〔variable〕"
+			],
+			[
+				"icon",
+				"iconarry〔variable〕"
+			],
+			[
+				"inv",
+				"invchar"
+			],
+			[
+				"next",
+				"nextWoman〔variable〕"
+			],
+			[
+				"submit",
+				"submitobservation"
+			],
+			[
+				"bs3-in",
+				"bs3-input:range	bs3-input-range"
+			],
+			[
+				"bs3-inp",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"ob",
+				"observationName"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bs",
+				"bs3-textarea	bs3-textarea"
+			],
+			[
+				"bs3-c",
+				"bs3-col:2	bs3-col-2"
+			],
+			[
+				"en",
+				"endblock"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"cal",
+				"class=〔attribute〕"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"bs3-navbar",
+				"bs3-navbar:text	bs3-navbar-text"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:basic	bs3-navbar-basic"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"cd",
+				"cdsbaseURLID"
+			],
+			[
+				"bs3-co",
+				"bs3-container	bs3-container"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"high",
+				"max-height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bs3-row",
+				"bs3-row	bs3-row"
+			],
+			[
+				"bs3-ro",
+				"bs3-row-col	bs3-row-col"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"cla",
+				"class=〔attribute〕"
+			],
+			[
+				"the",
+				"theme"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"align",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mdcontent/Glossary/Small-Angle Formula.md",
+			"settings":
+			{
+				"buffer_size": 2561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/layout.html",
+			"settings":
+			{
+				"buffer_size": 3677,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ituHelpers.py",
+			"settings":
+			{
+				"buffer_size": 2577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mdcontent/Glossary/Significant Figures.md",
+			"settings":
+			{
+				"buffer_size": 1939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mdcontent/Glossary/Keplar's Law.md",
+			"settings":
+			{
+				"buffer_size": 1586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mdcontent/Glossary/Percent Error Formula.md",
+			"settings":
+			{
+				"buffer_size": 1871,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mdcontent/Home.md",
+			"settings":
+			{
+				"buffer_size": 1705,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Python 2.7.10 (default, Oct 23 2015, 18:05:06) \n[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] on darwin\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n(InteractiveConsole)\n>>> import os\n>>> os.getcwd()\n'/Users/bryan/Desktop/UIowa-Astronomy-Site'\n>>> import pypandoc\n>>> os.walk(\"/mdcontent\")\n<generator object walk at 0x10e219550>\n>>> for path, dirs, files in os.walk(\"/mdcontent\"):\n... 	for name in files:\n... 		print(name)\n... \n>>> >>> 		print(name)\n  File \"<console>\", line 1\n    print(name)\n    ^\nIndentationError: unexpected indent\n>>> >>> mdcontent/./Glossary/keplarslaw.md\nmdcontent/./.DS_Store\nmdcontent/./index.md\nmdcontent/./Courses\nmdcontent/./Glossary\nmdcontent/./Labs\nmdcontent/./Tutorials\n>>> mdcontent/Glossary/keplarslaw.md\nmdcontent/.DS_Store\nmdcontent/index.md\n>>> mdcontent/Courses\nmdcontent/Glossary\nmdcontent/Labs\nmdcontent/Tutorials\n>>> Courses\nGlossary\nLabs\nTutorials\n>>> Traceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 1\n    for root, dirs, files in os.walk(\"mdcontent/\"):\n    ^\nIndentationError: unexpected indent\n>>> .DS_Store\nindex.md\nkeplarslaw.md\n>>> >>> dir_as_tree(\"mdcontent/\")\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 6, in dir_as_tree\nNameError: global name 'etree' is not defined\n>>> from lxml import etree\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nImportError: No module named lxml\n>>> >>> from lxml import etree\n>>> dir_as_tree(\"mdcontent/\")\n<Element dir at 0x10e5fc6c8>\n>>> tree = etree.ElementTree(dir_as_tree(\"mdcontent/\"))\n>>> tree\n<lxml.etree._ElementTree object at 0x10e5fc638>\n>>> os.path.basename(\"mdcontent/\")\n''\n>>> os.path.basename(\"mdcontent/\")\n''\n>>> print os.path.basename(\"mdcontent/\")\n\n>>> print os.path.basename(\"mdcontent/\").toString()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: 'str' object has no attribute 'toString'\n>>> print os.path.basename(\"mdcontent/\")\n\n>>> print os.path.basename(\"mdcontent\")\nmdcontent\n>>> print os.path.basename(\"/mdcontent\")\nmdcontent\n>>> >>> dir_as_tree(\"/mdcontent\")\n{'mdcontent': {'path': '/mdcontent', 'ftype': 'file', 'name': 'mdcontent', 'children': []}}\n>>> >>> dir_as_tree(\"/mdcontent\")\n{'mdcontent': {'path': '/mdcontent', 'ftype': 'file', 'name': 'mdcontent', 'children': []}}\n>>> >>> dir_as_tree(\"/mdcontent\")\n{'mdcontent': {'path': '/mdcontent', 'ftype': 'file', 'name': 'mdcontent', 'children': []}}\n>>> >>> dir_as_tree(\"/mdcontent\")\n{'mdcontent': {'path': '/mdcontent', 'ftype': 'file', 'name': 'mdcontent', 'children': []}}\n>>> dir_as_tree(\"mdcontent\")\ndir\ndir\ndir\ndir\ndir\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'.DS_Store': {'path': 'mdcontent/.DS_Store', 'ftype': 'file', 'name': '.DS_Store', 'children': []}}, {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> dir_as_tree(\"mdcontent\")\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'.DS_Store': {'path': 'mdcontent/.DS_Store', 'ftype': 'file', 'name': '.DS_Store', 'children': []}}, {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> dir_as_tree(\"mdcontent\")\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'.DS_Store': {'path': 'mdcontent/.DS_Store', 'ftype': 'file', 'name': '.DS_Store', 'children': []}}, {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> dir_as_tree(\"mdcontent\")\nFucked\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'.DS_Store': {'path': 'mdcontent/.DS_Store', 'ftype': 'file', 'name': '.DS_Store', 'children': []}}, {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> dir_as_tree(\"mdcontent\")\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'.DS_Store': {'path': 'mdcontent/.DS_Store', 'ftype': 'file', 'name': '.DS_Store', 'children': []}}, {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> dir_as_tree(\"mdcontent\")\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'.DS_Store': {'path': 'mdcontent/.DS_Store', 'ftype': 'file', 'name': '.DS_Store', 'children': []}}, {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> >>> dir_as_tree(\"mdcontent\")\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> dir_as_tree(\"/mdcontent\")\n{'mdcontent': {'path': '/mdcontent', 'ftype': 'file', 'name': 'mdcontent', 'children': []}}\n>>> dir_as_tree(\"mdcontent\")\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> \n>>> site = SiteGenerator()\n>>> site.content_tree\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> site = SiteGenerator()\n>>> site.content_tree\n{'': {'path': 'mdcontent/', 'ftype': 'dir', 'name': '', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> >>> \n>>> site = SiteGenerator()\n>>> site.content_tree\n{'children': [{'Courses': {'path': 'mdcontent/./Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/./Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/./Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/./Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/./Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/./index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}], '.': {'path': 'mdcontent/.', 'ftype': 'dir', 'name': '.', 'children': []}}\n>>> >>> site = SiteGenerator()\n>>> site.content_tree\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> site.content_tree[site.content_root]\n{'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}\n>>> site.content_tree\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> >>> site = SiteGenerator()\n>>> site.content_tree\n{'': {'path': 'mdcontent/', 'ftype': 'dir', 'name': '', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> site.content_tree[]\n  File \"<console>\", line 1\n    site.content_tree[]\n                      ^\nSyntaxError: invalid syntax\n>>> site.content_tree['']\n{'path': 'mdcontent/', 'ftype': 'dir', 'name': '', 'children': []}\n>>> site.content_tree.keys()\n['', 'children']\n>>> >>> site = SiteGenerator()\n>>> site = SiteGenerator()\n>>> site.content_tree.keys()\n['mdcontent', 'children']\n>>> site.content_tree\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': []}, 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> site.content_tree['children']\n[{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]\n>>> >>> site.content_tree['children']\n[{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}, 'children': []}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': []}, 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}, 'children': []}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}, 'children': []}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]\n>>> site = SiteGenerator()\n>>> site.content_tree\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}}\n>>> site.content_tree.keys()\n['mdcontent']\n>>> site.content_tree[mdcontent]\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nNameError: name 'mdcontent' is not defined\n>>> site.content_tree[self.content_root]\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nNameError: name 'self' is not defined\n>>> site.content_tree[site.content_root]\n{'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': [{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]}\n>>> site.content_tree[site.content_root]['children']\n[{'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': []}}, {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': [{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}]}}, {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': []}}, {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': []}}, {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}]\n>>> site.content_tree[site.content_root]['children'].keys()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: 'list' object has no attribute 'keys'\n>>> >>> >>> site.content_tree[site.content_root]['children'].keys()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: 'list' object has no attribute 'keys'\n>>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 9, in __init__\n  File \"<string>\", line 29, in dir_as_tree\n  File \"<string>\", line 31, in dir_as_tree\nValueError: dictionary update sequence element #0 has length 1; 2 is required\n>>> >>> site = SiteGenerator()\n>>> site.content_tree\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': {'Glossary': {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': {'keplarslaw.md': {'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}}}}, 'Courses': {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': {}}}, 'index.md': {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}, 'Tutorials': {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': {}}}, 'Labs': {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': {}}}}}}\n>>> site.content_tree[site.content_root]\n{'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': {'Glossary': {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': {'keplarslaw.md': {'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}}}}, 'Courses': {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': {}}}, 'index.md': {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}, 'Tutorials': {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': {}}}, 'Labs': {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': {}}}}}\n>>> site.content_tree[site.content_root]['children']\n{'Glossary': {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': {'keplarslaw.md': {'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}}}}, 'Courses': {'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': {}}}, 'index.md': {'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}}, 'Tutorials': {'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': {}}}, 'Labs': {'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': {}}}}\n>>> site.content_tree[site.content_root]['children'].keys()\n['Glossary', 'Courses', 'index.md', 'Tutorials', 'Labs']\n>>> >>> >>> site = SiteGenerator()\n>>> site.content_tree\n{'mdcontent': {'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': {'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}}, 'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': {}}, 'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}, 'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': {}}, 'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': {}}}}}\n>>> site.content_tree[site.content_root]\n{'path': 'mdcontent', 'ftype': 'dir', 'name': 'mdcontent', 'children': {'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': {'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}}, 'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': {}}, 'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}, 'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': {}}, 'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': {}}}}\n>>> site.content_tree[site.content_root]['children']\n{'Glossary': {'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': {'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}}, 'Courses': {'path': 'mdcontent/Courses', 'ftype': 'dir', 'name': 'Courses', 'children': {}}, 'index.md': {'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index.md', 'children': []}, 'Tutorials': {'path': 'mdcontent/Tutorials', 'ftype': 'dir', 'name': 'Tutorials', 'children': {}}, 'Labs': {'path': 'mdcontent/Labs', 'ftype': 'dir', 'name': 'Labs', 'children': {}}}\n>>> site.content_tree[site.content_root]['children'].keys()\n['Glossary', 'Courses', 'index.md', 'Tutorials', 'Labs']\n>>> site.content_tree[site.content_root]['children']['Glossary'].keys()\n['path', 'ftype', 'name', 'children']\n>>> site.content_tree[site.content_root]['children']['Glossary'].name\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: 'dict' object has no attribute 'name'\n>>> site.content_tree[site.content_root]['children']['Glossary']['name']\n'Glossary'\n>>> site.content_tree[site.content_root]['children']['Glossary']['children']\n{'keplarslaw.md': {'path': 'mdcontent/Glossary/keplarslaw.md', 'ftype': 'file', 'name': 'keplarslaw.md', 'children': []}}\n>>> >>> site = SiteGenerator()\n>>> site.content_tree[site.content_root]['children']['Glossary']['children']\n{\"Keplar's Law.md\": {'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'name': \"Keplar's Law\"}}\n>>> >>> site = SiteGenerator()\n>>> site.content_tree[site.content_root]['children']['Glossary']['children']\n{\"Keplar's Law\": {'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'name': \"Keplar's Law\"}}\n>>> import re\n\nstrs = \"how much for the maple syrup? $20.99? That's ricidulous!!!\"\nprint strs\nnstr = re.sub(r'[?|$|.|!]',r'',strs)\nprint nstr\nnestr = re.sub(r'[^a-zA-Z0-9 ]',r'',nstr)\nprint nestr\n>>> >>> >>> how much for the maple syrup? $20.99? That's ricidulous!!!\n>>> >>> how much for the maple syrup 2099 That's ricidulous\n>>> >>> how much for the maple syrup 2099 Thats ricidulous\n>>> >>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 10, in __init__\n  File \"<string>\", line 30, in gather_content\n  File \"<string>\", line 30, in gather_content\n  File \"<string>\", line 38, in gather_content\nKeyError: \"Keplar's Law\"\n>>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 10, in __init__\n  File \"<string>\", line 30, in gather_content\n  File \"<string>\", line 30, in gather_content\n  File \"<string>\", line 38, in gather_content\nKeyError: \"Keplar's Law\"\n>>> >>> site = SiteGenerator()\n>>> site.content_tree[site.content_root]['children']['Glossary']['children']\n{'Keplars Law': {'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'name': \"Keplar's Law\"}}\n>>> import re\n\nstrs = \"how much for the maple syrup? $20.99? That's ricidulous!!!\"\nprint strs\nnstr = re.sub(r'[?|$|.|!]',r'',strs)\nprint nstr\nnestr = re.sub(r'[a-zA-Z0-9 ]',r'',nstr)\nprint nestr\n>>> >>> >>> how much for the maple syrup? $20.99? That's ricidulous!!!\n>>> >>> how much for the maple syrup 2099 That's ricidulous\n>>> >>> '\n>>> >>> site = SiteGenerator()\n>>> site.content_tree[site.content_root]['children']['Glossary']['children']\n{'Keplars Law': {'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'name': \"Keplar's Law\"}}\n>>> >>> site = SiteGenerator()\n>>> site.content_tree[site.content_root]['children']['Glossary']['children']\n{'keplarslaw': {'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'name': \"Keplar's Law\"}}\n>>> site.content_tree[site.content_root]['children'].keys()\n['Glossary', 'Courses', 'index', 'Tutorials', 'Labs']\n>>> site.content_tree[site.content_root]['children']['index']\n{'path': 'mdcontent/index.md', 'ftype': 'file', 'name': 'index'}\n>>> Traceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 4\n    import\n          ^\nSyntaxError: invalid syntax\n>>> >>> site = SiteGenerator()\n>>> site.content_tree[site.content_root]['children']['index']\n{'path': 'mdcontent/index.md', 'ftype': 'file', 'html': u'<h1 id=\"an-h1-header\">An h1 header</h1>\\n<p>Paragraphs are separated by a blank line.</p>\\n<p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code>monospace</code>. Itemized lists look like:</p>\\n<ul>\\n<li>this one</li>\\n<li>that one</li>\\n<li>the other one</li>\\n</ul>\\n<p>Note that --- not considering the asterisk --- the actual text content starts at 4-columns in.</p>\\n<blockquote>\\n<p>Block quotes are written like so.</p>\\n<p>They can span multiple paragraphs, if you like.</p>\\n</blockquote>\\n<p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &quot;it\\'s all in chapters 12--14&quot;). Three dots ... will be converted to an ellipsis. Unicode is supported. \\u263a</p>\\n<h2 id=\"an-h2-header\">An h2 header</h2>\\n<p>Here\\'s a numbered list:</p>\\n<ol type=\"1\">\\n<li>first item</li>\\n<li>second item</li>\\n<li>third item</li>\\n</ol>\\n<p>Note again how the actual text starts at 4 columns in (4 characters from the left side). Here\\'s a code sample:</p>\\n<pre><code># Let me re-iterate ...\\nfor i in 1 .. 10 { do-something(i) }</code></pre>\\n<p>As you probably guessed, indented 4 spaces. By the way, instead of indenting the block, you can use delimited blocks, if you like:</p>\\n<pre><code>define foobar() {\\n    print &quot;Welcome to flavor country!&quot;;\\n}</code></pre>\\n<p>(which makes copying &amp; pasting easier). You can optionally mark the delimited block for Pandoc to syntax highlight it:</p>\\n<div class=\"sourceCode\"><pre class=\"sourceCode python\"><code class=\"sourceCode python\"><span class=\"im\">import</span> time\\n<span class=\"co\"># Quick, count to ten!</span>\\n<span class=\"cf\">for</span> i <span class=\"op\">in</span> <span class=\"bu\">range</span>(<span class=\"dv\">10</span>):\\n    <span class=\"co\"># (but not *too* quick)</span>\\n    time.sleep(<span class=\"fl\">0.5</span>)\\n    <span class=\"bu\">print</span> i</code></pre></div>\\n<h3 id=\"an-h3-header\">An h3 header</h3>\\n<p>Now a nested list:</p>\\n<ol type=\"1\">\\n<li><p>First, get these ingredients:</p>\\n<ul>\\n<li>carrots</li>\\n<li>celery</li>\\n<li>lentils</li>\\n</ul></li>\\n<li><p>Boil some water.</p></li>\\n<li><p>Dump everything in the pot and follow this algorithm:</p>\\n<pre><code>find wooden spoon\\nuncover pot\\nstir\\ncover pot\\nbalance wooden spoon precariously on pot handle\\nwait 10 minutes\\ngoto first step (or shut off burner when done)</code></pre>\\n<p>Do not bump wooden spoon or it will fall.</p></li>\\n</ol>\\n<p>Notice again how text always lines up on 4-space indents (including that last line which continues item 3 above).</p>\\n<p>Here\\'s a link to <a href=\"http://foo.bar\">a website</a>, to a <a href=\"local-doc.html\">local doc</a>, and to a <a href=\"#an-h2-header\">section heading in the current doc</a>. Here\\'s a footnote <a href=\"#fn1\" class=\"footnoteRef\" id=\"fnref1\"><sup>1</sup></a>.</p>\\n<p>Tables can look like this:</p>\\n<table>\\n<caption>Shoes, their sizes, and what they\\'re made of</caption>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">size</th>\\n<th style=\"text-align: left;\">material</th>\\n<th style=\"text-align: left;\">color</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">9</td>\\n<td style=\"text-align: left;\">leather</td>\\n<td style=\"text-align: left;\">brown</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">10</td>\\n<td style=\"text-align: left;\">hemp canvas</td>\\n<td style=\"text-align: left;\">natural</td>\\n</tr>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">11</td>\\n<td style=\"text-align: left;\">glass</td>\\n<td style=\"text-align: left;\">transparent</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>(The above is the caption for the table.) Pandoc also supports multi-line tables:</p>\\n<table style=\"width:46%;\">\\n<colgroup>\\n<col style=\"width: 13%\" />\\n<col style=\"width: 31%\" />\\n</colgroup>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">keyword</th>\\n<th style=\"text-align: left;\">text</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">red</td>\\n<td style=\"text-align: left;\">Sunsets, apples, and other red or reddish things.</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">green</td>\\n<td style=\"text-align: left;\">Leaves, grass, frogs and other things it\\'s not easy being.</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>A horizontal rule follows.</p>\\n<hr />\\n<p>Here\\'s a definition list:</p>\\n<dl>\\n<dt>apples</dt>\\n<dd>Good for making applesauce. oranges\\n</dd>\\n<dd>Citrus! tomatoes\\n</dd>\\n<dd>There\\'s no &quot;e&quot; in tomatoe.\\n</dd>\\n</dl>\\n<p>Again, text is indented 4 spaces. (Put a blank line between each term/definition pair to spread things out more.)</p>\\n<p>Here\\'s a &quot;line block&quot;:</p>\\n<p>Line one<br />\\n\\xa0\\xa0Line too<br />\\nLine tree</p>\\n<p>and images can be specified like so:</p>\\n<figure>\\n<img src=\"example-image.jpg\" title=\"An exemplary image\" alt=\"example image\" /><figcaption>example image</figcaption>\\n</figure>\\n<p>Inline math equations go in like so: <span class=\"math inline\">\\\\(\\\\omega = d\\\\phi / dt\\\\)</span>. Display math should get its own line and be put in in double-dollarsigns:</p>\\n<p><span class=\"math display\">\\\\[I = \\\\int \\\\rho R^{2} dV\\\\]</span></p>\\n<p><span class=\"math display\">\\\\[\\n\\\\begin{aligned}\\nx&amp;=1\\\\label{eq:1}\\\\\\\\\\ny&amp;=2\\n\\\\end{aligned}\\n\\\\]</span></p>\\n<p>End of math.</p>\\n<p>And note that you can backslash-escape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>\\n<section class=\"footnotes\">\\n<hr />\\n<ol>\\n<li id=\"fn1\"><p>Footnote text goes here.<a href=\"#fnref1\">\\u21a9</a></p></li>\\n</ol>\\n</section>\\n', 'name': 'index'}\n>>> >>> site = SiteGenerator()\n/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/bs4/__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system (\"lxml\"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.\n\nTo get rid of this warning, change this:\n\n BeautifulSoup([your markup])\n\nto this:\n\n BeautifulSoup([your markup], \"lxml\")\n\n  markup_type=markup_type))\n>>> >>> site = SiteGenerator()\n>>> site.content_tree[site.content_root]['children']['index']\n{'path': 'mdcontent/index.md', 'ftype': 'file', 'html': '<h1 id=\"an-h1-header\">An h1 header</h1>\\n<p>Paragraphs are separated by a blank line.</p>\\n<p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code>monospace</code>. Itemized lists look like:</p>\\n<ul>\\n<li>this one</li>\\n<li>that one</li>\\n<li>the other one</li>\\n</ul>\\n<p>Note that --- not considering the asterisk --- the actual text content starts at 4-columns in.</p>\\n<blockquote>\\n<p>Block quotes are written like so.</p>\\n<p>They can span multiple paragraphs, if you like.</p>\\n</blockquote>\\n<p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., \"it\\'s all in chapters 12--14\"). Three dots ... will be converted to an ellipsis. Unicode is supported. \\xe2\\x98\\xba</p>\\n<h2 id=\"an-h2-header\">An h2 header</h2>\\n<p>Here\\'s a numbered list:</p>\\n<ol type=\"1\">\\n<li>first item</li>\\n<li>second item</li>\\n<li>third item</li>\\n</ol>\\n<p>Note again how the actual text starts at 4 columns in (4 characters from the left side). Here\\'s a code sample:</p>\\n<pre><code># Let me re-iterate ...\\nfor i in 1 .. 10 { do-something(i) }</code></pre>\\n<p>As you probably guessed, indented 4 spaces. By the way, instead of indenting the block, you can use delimited blocks, if you like:</p>\\n<pre><code>define foobar() {\\n    print \"Welcome to flavor country!\";\\n}</code></pre>\\n<p>(which makes copying &amp; pasting easier). You can optionally mark the delimited block for Pandoc to syntax highlight it:</p>\\n<div class=\"sourceCode\"><pre class=\"sourceCode python\"><code class=\"sourceCode python\"><span class=\"im\">import</span> time\\n<span class=\"co\"># Quick, count to ten!</span>\\n<span class=\"cf\">for</span> i <span class=\"op\">in</span> <span class=\"bu\">range</span>(<span class=\"dv\">10</span>):\\n    <span class=\"co\"># (but not *too* quick)</span>\\n    time.sleep(<span class=\"fl\">0.5</span>)\\n    <span class=\"bu\">print</span> i</code></pre></div>\\n<h3 id=\"an-h3-header\">An h3 header</h3>\\n<p>Now a nested list:</p>\\n<ol type=\"1\">\\n<li><p>First, get these ingredients:</p>\\n<ul>\\n<li>carrots</li>\\n<li>celery</li>\\n<li>lentils</li>\\n</ul></li>\\n<li><p>Boil some water.</p></li>\\n<li><p>Dump everything in the pot and follow this algorithm:</p>\\n<pre><code>find wooden spoon\\nuncover pot\\nstir\\ncover pot\\nbalance wooden spoon precariously on pot handle\\nwait 10 minutes\\ngoto first step (or shut off burner when done)</code></pre>\\n<p>Do not bump wooden spoon or it will fall.</p></li>\\n</ol>\\n<p>Notice again how text always lines up on 4-space indents (including that last line which continues item 3 above).</p>\\n<p>Here\\'s a link to <a href=\"http://foo.bar\">a website</a>, to a <a href=\"local-doc.html\">local doc</a>, and to a <a href=\"#an-h2-header\">section heading in the current doc</a>. Here\\'s a footnote <a class=\"footnoteRef\" href=\"#fn1\" id=\"fnref1\"><sup>1</sup></a>.</p>\\n<p>Tables can look like this:</p>\\n<table>\\n<caption>Shoes, their sizes, and what they\\'re made of</caption>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">size</th>\\n<th style=\"text-align: left;\">material</th>\\n<th style=\"text-align: left;\">color</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">9</td>\\n<td style=\"text-align: left;\">leather</td>\\n<td style=\"text-align: left;\">brown</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">10</td>\\n<td style=\"text-align: left;\">hemp canvas</td>\\n<td style=\"text-align: left;\">natural</td>\\n</tr>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">11</td>\\n<td style=\"text-align: left;\">glass</td>\\n<td style=\"text-align: left;\">transparent</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>(The above is the caption for the table.) Pandoc also supports multi-line tables:</p>\\n<table style=\"width:46%;\">\\n<colgroup>\\n<col style=\"width: 13%\"></col>\\n<col style=\"width: 31%\"></col>\\n</colgroup>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">keyword</th>\\n<th style=\"text-align: left;\">text</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">red</td>\\n<td style=\"text-align: left;\">Sunsets, apples, and other red or reddish things.</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">green</td>\\n<td style=\"text-align: left;\">Leaves, grass, frogs and other things it\\'s not easy being.</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>A horizontal rule follows.</p>\\n<hr/>\\n<p>Here\\'s a definition list:</p>\\n<dl>\\n<dt>apples</dt>\\n<dd>Good for making applesauce. oranges\\n</dd>\\n<dd>Citrus! tomatoes\\n</dd>\\n<dd>There\\'s no \"e\" in tomatoe.\\n</dd>\\n</dl>\\n<p>Again, text is indented 4 spaces. (Put a blank line between each term/definition pair to spread things out more.)</p>\\n<p>Here\\'s a \"line block\":</p>\\n<p>Line one<br/>\\n\\xc2\\xa0\\xc2\\xa0Line too<br/>\\nLine tree</p>\\n<p>and images can be specified like so:</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"example-image.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n<p>Inline math equations go in like so: <span class=\"math inline\">\\\\(\\\\omega = d\\\\phi / dt\\\\)</span>. Display math should get its own line and be put in in double-dollarsigns:</p>\\n<p><span class=\"math display\">\\\\[I = \\\\int \\\\rho R^{2} dV\\\\]</span></p>\\n<p><span class=\"math display\">\\\\[\\n\\\\begin{aligned}\\nx&amp;=1\\\\label{eq:1}\\\\\\\\\\ny&amp;=2\\n\\\\end{aligned}\\n\\\\]</span></p>\\n<p>End of math.</p>\\n<p>And note that you can backslash-escape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>\\n<section class=\"footnotes\">\\n<hr/>\\n<ol>\\n<li id=\"fn1\"><p>Footnote text goes here.<a href=\"#fnref1\">\\xe2\\x86\\xa9</a></p></li>\\n</ol>\\n</section>\\n', 'name': 'index'}\n>>> site.content_tree[site.content_root].keys()\n['path', 'ftype', 'name', 'children']\n>>> site.content_tree[site.content_root]['children'].keys()\n['Glossary', 'Courses', 'index', 'Tutorials', 'Labs']\n>>> site.content_tree[site.content_root]['children']['Glossary']\n{'path': 'mdcontent/Glossary', 'ftype': 'dir', 'name': 'Glossary', 'children': {'keplarslaw': {'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'html': '<h1 id=\"keplers-third-law\">Kepler\\'s Third Law</h1>\\n<p>Kepler discovered that the size of a planet\\'s orbit (the semi-major axis of the ellipse) is simply related to sidereal period of the orbit. If the size of the orbit (<span class=\"math inline\">\\\\(a\\\\)</span>) is expressed in astronomical units (<code>1 AU</code> equals the average distance between the Earth and the Sun) and the period (<span class=\"math inline\">\\\\(P\\\\)</span>) is measured in years, then Kepler\\'s Third Law says:</p>\\n<p><span class=\"math display\">\\\\[P^2 \\\\propto a^3\\\\]</span></p>\\n<p>After applying Newton\\'s Laws of Motion and Newton\\'s Law of Gravity we find that Kepler\\'s Third Law takes a more general form:</p>\\n<p><span class=\"math display\">\\\\[P^2= \\\\frac{ 4 \\\\pi^2 }{ G(M_1 + M_2) }a^3\\\\]</span></p>\\n<p>where <span class=\"math inline\">\\\\(M_1\\\\)</span> and <span class=\"math inline\">\\\\(M2_2\\\\)</span> are the masses of the two orbiting objects in solar masses. Note that if the mass of one body, such as <span class=\"math inline\">\\\\(M_1\\\\)</span>, is much larger than the other, then <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is nearly equal to <span class=\"math inline\">\\\\(M_1\\\\)</span>. In our solar system <span class=\"math inline\">\\\\(M_1 = 1\\\\)</span> solar mass, and this equation becomes identical to the first.</p>\\n<h2 id=\"example\">Example</h2>\\n<p>Phobos orbits Mars with an average distance of about <code>9380 km</code> from the center of the planet and a rotational period of about <code>7 hr 39 min</code>. Use this information to estimate the mass of Mars.</p>\\n<h2 id=\"solution\">Solution</h2>\\n<p><span class=\"math inline\">\\\\(a = 9380\\\\,km = 9.38 \\\\times 106\\\\,m\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(P = 7\\\\,hr\\\\;39\\\\,min = 7.65\\\\,hr = 27540\\\\,sec\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((27540\\\\,sec) ^ 2 = \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}}(9.38 \\\\times 10^6\\\\,m)^3\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(\\\\frac{(9.38 \\\\times 10^6\\\\,m)^3)}{(27540\\\\,s)^2} \\\\cdot \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}} = (M_1+M_2)\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((M_1+M_2) = 6.44 \\\\times 10^23\\\\,kg\\\\)</span></p>\\n<p>Since the mass of Mars is so much greater than the mass of Phobos, <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is very nearly equal to the mass of Mars, so this is a good estimate.</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"/static/mdcontent/kaJoKSq.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n', 'name': \"Keplar's Law\"}}}\n>>> site.content_tree[site.content_root]['children']['Glossary'].keys()\n['path', 'ftype', 'name', 'children']\n>>> site.content_tree[site.content_root]['children']['Glossary']['children'].keys()\n['keplarslaw']\n>>> site.content_tree[site.content_root]['children']['Glossary'].keys()\n['path', 'ftype', 'name', 'children']\n>>> site.content_tree[site.content_root]['children']['Glossary']['name'].keys()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: 'str' object has no attribute 'keys'\n>>> site.content_tree[site.content_root]['children']['Glossary']['name']''\n  File \"<console>\", line 1\n    site.content_tree[site.content_root]['children']['Glossary']['name']''\n                                                                         ^\nSyntaxError: invalid syntax\n>>> site.content_tree[site.content_root]['children']['Glossary']['name']\n'Glossary'\n>>> >>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 12, in __init__\n  File \"<string>\", line 33, in gather_content\n  File \"<string>\", line 33, in gather_content\n  File \"<string>\", line 47, in gather_content\nAttributeError: SiteGenerator instance has no attribute 'valid_pages'\n>>> >>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 13, in __init__\n  File \"<string>\", line 68, in retrive_menus\nKeyError: 'children'\n>>> >>> site = SiteGenerator()\nGlossary\nCourses\nindex\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 13, in __init__\n  File \"<string>\", line 69, in retrive_menus\nKeyError: 'children'\n>>> >>> >>> site = SiteGenerator()\nGlossary\nCourses\nindex\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 13, in __init__\n  File \"<string>\", line 69, in retrive_menus\nKeyError: 'children'\n>>> >>> site = SiteGenerator()\nGlossary\nCourses\nTutorials\nLabs\n>>> site.menus\n{'Glossary': [{'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'html': '<h1 id=\"keplers-third-law\">Kepler\\'s Third Law</h1>\\n<p>Kepler discovered that the size of a planet\\'s orbit (the semi-major axis of the ellipse) is simply related to sidereal period of the orbit. If the size of the orbit (<span class=\"math inline\">\\\\(a\\\\)</span>) is expressed in astronomical units (<code>1 AU</code> equals the average distance between the Earth and the Sun) and the period (<span class=\"math inline\">\\\\(P\\\\)</span>) is measured in years, then Kepler\\'s Third Law says:</p>\\n<p><span class=\"math display\">\\\\[P^2 \\\\propto a^3\\\\]</span></p>\\n<p>After applying Newton\\'s Laws of Motion and Newton\\'s Law of Gravity we find that Kepler\\'s Third Law takes a more general form:</p>\\n<p><span class=\"math display\">\\\\[P^2= \\\\frac{ 4 \\\\pi^2 }{ G(M_1 + M_2) }a^3\\\\]</span></p>\\n<p>where <span class=\"math inline\">\\\\(M_1\\\\)</span> and <span class=\"math inline\">\\\\(M2_2\\\\)</span> are the masses of the two orbiting objects in solar masses. Note that if the mass of one body, such as <span class=\"math inline\">\\\\(M_1\\\\)</span>, is much larger than the other, then <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is nearly equal to <span class=\"math inline\">\\\\(M_1\\\\)</span>. In our solar system <span class=\"math inline\">\\\\(M_1 = 1\\\\)</span> solar mass, and this equation becomes identical to the first.</p>\\n<h2 id=\"example\">Example</h2>\\n<p>Phobos orbits Mars with an average distance of about <code>9380 km</code> from the center of the planet and a rotational period of about <code>7 hr 39 min</code>. Use this information to estimate the mass of Mars.</p>\\n<h2 id=\"solution\">Solution</h2>\\n<p><span class=\"math inline\">\\\\(a = 9380\\\\,km = 9.38 \\\\times 106\\\\,m\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(P = 7\\\\,hr\\\\;39\\\\,min = 7.65\\\\,hr = 27540\\\\,sec\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((27540\\\\,sec) ^ 2 = \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}}(9.38 \\\\times 10^6\\\\,m)^3\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(\\\\frac{(9.38 \\\\times 10^6\\\\,m)^3)}{(27540\\\\,s)^2} \\\\cdot \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}} = (M_1+M_2)\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((M_1+M_2) = 6.44 \\\\times 10^23\\\\,kg\\\\)</span></p>\\n<p>Since the mass of Mars is so much greater than the mass of Phobos, <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is very nearly equal to the mass of Mars, so this is a good estimate.</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"/static/mdcontent/kaJoKSq.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n', 'name': \"Keplar's Law\"}], 'Courses': [], 'Tutorials': [], 'Labs': []}\n>>> site.menus['Glossary']\n[{'path': \"mdcontent/Glossary/Keplar's Law.md\", 'ftype': 'file', 'html': '<h1 id=\"keplers-third-law\">Kepler\\'s Third Law</h1>\\n<p>Kepler discovered that the size of a planet\\'s orbit (the semi-major axis of the ellipse) is simply related to sidereal period of the orbit. If the size of the orbit (<span class=\"math inline\">\\\\(a\\\\)</span>) is expressed in astronomical units (<code>1 AU</code> equals the average distance between the Earth and the Sun) and the period (<span class=\"math inline\">\\\\(P\\\\)</span>) is measured in years, then Kepler\\'s Third Law says:</p>\\n<p><span class=\"math display\">\\\\[P^2 \\\\propto a^3\\\\]</span></p>\\n<p>After applying Newton\\'s Laws of Motion and Newton\\'s Law of Gravity we find that Kepler\\'s Third Law takes a more general form:</p>\\n<p><span class=\"math display\">\\\\[P^2= \\\\frac{ 4 \\\\pi^2 }{ G(M_1 + M_2) }a^3\\\\]</span></p>\\n<p>where <span class=\"math inline\">\\\\(M_1\\\\)</span> and <span class=\"math inline\">\\\\(M2_2\\\\)</span> are the masses of the two orbiting objects in solar masses. Note that if the mass of one body, such as <span class=\"math inline\">\\\\(M_1\\\\)</span>, is much larger than the other, then <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is nearly equal to <span class=\"math inline\">\\\\(M_1\\\\)</span>. In our solar system <span class=\"math inline\">\\\\(M_1 = 1\\\\)</span> solar mass, and this equation becomes identical to the first.</p>\\n<h2 id=\"example\">Example</h2>\\n<p>Phobos orbits Mars with an average distance of about <code>9380 km</code> from the center of the planet and a rotational period of about <code>7 hr 39 min</code>. Use this information to estimate the mass of Mars.</p>\\n<h2 id=\"solution\">Solution</h2>\\n<p><span class=\"math inline\">\\\\(a = 9380\\\\,km = 9.38 \\\\times 106\\\\,m\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(P = 7\\\\,hr\\\\;39\\\\,min = 7.65\\\\,hr = 27540\\\\,sec\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((27540\\\\,sec) ^ 2 = \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}}(9.38 \\\\times 10^6\\\\,m)^3\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(\\\\frac{(9.38 \\\\times 10^6\\\\,m)^3)}{(27540\\\\,s)^2} \\\\cdot \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}} = (M_1+M_2)\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((M_1+M_2) = 6.44 \\\\times 10^23\\\\,kg\\\\)</span></p>\\n<p>Since the mass of Mars is so much greater than the mass of Phobos, <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is very nearly equal to the mass of Mars, so this is a good estimate.</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"/static/mdcontent/kaJoKSq.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n', 'name': \"Keplar's Law\"}]\n>>> site.menus['index']\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nKeyError: 'index'\n>>> site.content_tree[site.content_root]['children']['index']\n{'path': 'mdcontent/index.md', 'ftype': 'file', 'html': '<h1 id=\"an-h1-header\">An h1 header</h1>\\n<p>Paragraphs are separated by a blank line.</p>\\n<p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code>monospace</code>. Itemized lists look like:</p>\\n<ul>\\n<li>this one</li>\\n<li>that one</li>\\n<li>the other one</li>\\n</ul>\\n<p>Note that --- not considering the asterisk --- the actual text content starts at 4-columns in.</p>\\n<blockquote>\\n<p>Block quotes are written like so.</p>\\n<p>They can span multiple paragraphs, if you like.</p>\\n</blockquote>\\n<p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., \"it\\'s all in chapters 12--14\"). Three dots ... will be converted to an ellipsis. Unicode is supported. \\xe2\\x98\\xba</p>\\n<h2 id=\"an-h2-header\">An h2 header</h2>\\n<p>Here\\'s a numbered list:</p>\\n<ol type=\"1\">\\n<li>first item</li>\\n<li>second item</li>\\n<li>third item</li>\\n</ol>\\n<p>Note again how the actual text starts at 4 columns in (4 characters from the left side). Here\\'s a code sample:</p>\\n<pre><code># Let me re-iterate ...\\nfor i in 1 .. 10 { do-something(i) }</code></pre>\\n<p>As you probably guessed, indented 4 spaces. By the way, instead of indenting the block, you can use delimited blocks, if you like:</p>\\n<pre><code>define foobar() {\\n    print \"Welcome to flavor country!\";\\n}</code></pre>\\n<p>(which makes copying &amp; pasting easier). You can optionally mark the delimited block for Pandoc to syntax highlight it:</p>\\n<div class=\"sourceCode\"><pre class=\"sourceCode python\"><code class=\"sourceCode python\"><span class=\"im\">import</span> time\\n<span class=\"co\"># Quick, count to ten!</span>\\n<span class=\"cf\">for</span> i <span class=\"op\">in</span> <span class=\"bu\">range</span>(<span class=\"dv\">10</span>):\\n    <span class=\"co\"># (but not *too* quick)</span>\\n    time.sleep(<span class=\"fl\">0.5</span>)\\n    <span class=\"bu\">print</span> i</code></pre></div>\\n<h3 id=\"an-h3-header\">An h3 header</h3>\\n<p>Now a nested list:</p>\\n<ol type=\"1\">\\n<li><p>First, get these ingredients:</p>\\n<ul>\\n<li>carrots</li>\\n<li>celery</li>\\n<li>lentils</li>\\n</ul></li>\\n<li><p>Boil some water.</p></li>\\n<li><p>Dump everything in the pot and follow this algorithm:</p>\\n<pre><code>find wooden spoon\\nuncover pot\\nstir\\ncover pot\\nbalance wooden spoon precariously on pot handle\\nwait 10 minutes\\ngoto first step (or shut off burner when done)</code></pre>\\n<p>Do not bump wooden spoon or it will fall.</p></li>\\n</ol>\\n<p>Notice again how text always lines up on 4-space indents (including that last line which continues item 3 above).</p>\\n<p>Here\\'s a link to <a href=\"http://foo.bar\">a website</a>, to a <a href=\"local-doc.html\">local doc</a>, and to a <a href=\"#an-h2-header\">section heading in the current doc</a>. Here\\'s a footnote <a class=\"footnoteRef\" href=\"#fn1\" id=\"fnref1\"><sup>1</sup></a>.</p>\\n<p>Tables can look like this:</p>\\n<table>\\n<caption>Shoes, their sizes, and what they\\'re made of</caption>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">size</th>\\n<th style=\"text-align: left;\">material</th>\\n<th style=\"text-align: left;\">color</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">9</td>\\n<td style=\"text-align: left;\">leather</td>\\n<td style=\"text-align: left;\">brown</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">10</td>\\n<td style=\"text-align: left;\">hemp canvas</td>\\n<td style=\"text-align: left;\">natural</td>\\n</tr>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">11</td>\\n<td style=\"text-align: left;\">glass</td>\\n<td style=\"text-align: left;\">transparent</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>(The above is the caption for the table.) Pandoc also supports multi-line tables:</p>\\n<table style=\"width:46%;\">\\n<colgroup>\\n<col style=\"width: 13%\"></col>\\n<col style=\"width: 31%\"></col>\\n</colgroup>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">keyword</th>\\n<th style=\"text-align: left;\">text</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">red</td>\\n<td style=\"text-align: left;\">Sunsets, apples, and other red or reddish things.</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">green</td>\\n<td style=\"text-align: left;\">Leaves, grass, frogs and other things it\\'s not easy being.</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>A horizontal rule follows.</p>\\n<hr/>\\n<p>Here\\'s a definition list:</p>\\n<dl>\\n<dt>apples</dt>\\n<dd>Good for making applesauce. oranges\\n</dd>\\n<dd>Citrus! tomatoes\\n</dd>\\n<dd>There\\'s no \"e\" in tomatoe.\\n</dd>\\n</dl>\\n<p>Again, text is indented 4 spaces. (Put a blank line between each term/definition pair to spread things out more.)</p>\\n<p>Here\\'s a \"line block\":</p>\\n<p>Line one<br/>\\n\\xc2\\xa0\\xc2\\xa0Line too<br/>\\nLine tree</p>\\n<p>and images can be specified like so:</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"example-image.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n<p>Inline math equations go in like so: <span class=\"math inline\">\\\\(\\\\omega = d\\\\phi / dt\\\\)</span>. Display math should get its own line and be put in in double-dollarsigns:</p>\\n<p><span class=\"math display\">\\\\[I = \\\\int \\\\rho R^{2} dV\\\\]</span></p>\\n<p><span class=\"math display\">\\\\[\\n\\\\begin{aligned}\\nx&amp;=1\\\\label{eq:1}\\\\\\\\\\ny&amp;=2\\n\\\\end{aligned}\\n\\\\]</span></p>\\n<p>End of math.</p>\\n<p>And note that you can backslash-escape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>\\n<section class=\"footnotes\">\\n<hr/>\\n<ol>\\n<li id=\"fn1\"><p>Footnote text goes here.<a href=\"#fnref1\">\\xe2\\x86\\xa9</a></p></li>\\n</ol>\\n</section>\\n', 'name': 'index'}\n>>> \n>>> site.content_tree[site.content_root]['children']['index']['html']\n'<h1 id=\"an-h1-header\">An h1 header</h1>\\n<p>Paragraphs are separated by a blank line.</p>\\n<p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code>monospace</code>. Itemized lists look like:</p>\\n<ul>\\n<li>this one</li>\\n<li>that one</li>\\n<li>the other one</li>\\n</ul>\\n<p>Note that --- not considering the asterisk --- the actual text content starts at 4-columns in.</p>\\n<blockquote>\\n<p>Block quotes are written like so.</p>\\n<p>They can span multiple paragraphs, if you like.</p>\\n</blockquote>\\n<p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., \"it\\'s all in chapters 12--14\"). Three dots ... will be converted to an ellipsis. Unicode is supported. \\xe2\\x98\\xba</p>\\n<h2 id=\"an-h2-header\">An h2 header</h2>\\n<p>Here\\'s a numbered list:</p>\\n<ol type=\"1\">\\n<li>first item</li>\\n<li>second item</li>\\n<li>third item</li>\\n</ol>\\n<p>Note again how the actual text starts at 4 columns in (4 characters from the left side). Here\\'s a code sample:</p>\\n<pre><code># Let me re-iterate ...\\nfor i in 1 .. 10 { do-something(i) }</code></pre>\\n<p>As you probably guessed, indented 4 spaces. By the way, instead of indenting the block, you can use delimited blocks, if you like:</p>\\n<pre><code>define foobar() {\\n    print \"Welcome to flavor country!\";\\n}</code></pre>\\n<p>(which makes copying &amp; pasting easier). You can optionally mark the delimited block for Pandoc to syntax highlight it:</p>\\n<div class=\"sourceCode\"><pre class=\"sourceCode python\"><code class=\"sourceCode python\"><span class=\"im\">import</span> time\\n<span class=\"co\"># Quick, count to ten!</span>\\n<span class=\"cf\">for</span> i <span class=\"op\">in</span> <span class=\"bu\">range</span>(<span class=\"dv\">10</span>):\\n    <span class=\"co\"># (but not *too* quick)</span>\\n    time.sleep(<span class=\"fl\">0.5</span>)\\n    <span class=\"bu\">print</span> i</code></pre></div>\\n<h3 id=\"an-h3-header\">An h3 header</h3>\\n<p>Now a nested list:</p>\\n<ol type=\"1\">\\n<li><p>First, get these ingredients:</p>\\n<ul>\\n<li>carrots</li>\\n<li>celery</li>\\n<li>lentils</li>\\n</ul></li>\\n<li><p>Boil some water.</p></li>\\n<li><p>Dump everything in the pot and follow this algorithm:</p>\\n<pre><code>find wooden spoon\\nuncover pot\\nstir\\ncover pot\\nbalance wooden spoon precariously on pot handle\\nwait 10 minutes\\ngoto first step (or shut off burner when done)</code></pre>\\n<p>Do not bump wooden spoon or it will fall.</p></li>\\n</ol>\\n<p>Notice again how text always lines up on 4-space indents (including that last line which continues item 3 above).</p>\\n<p>Here\\'s a link to <a href=\"http://foo.bar\">a website</a>, to a <a href=\"local-doc.html\">local doc</a>, and to a <a href=\"#an-h2-header\">section heading in the current doc</a>. Here\\'s a footnote <a class=\"footnoteRef\" href=\"#fn1\" id=\"fnref1\"><sup>1</sup></a>.</p>\\n<p>Tables can look like this:</p>\\n<table>\\n<caption>Shoes, their sizes, and what they\\'re made of</caption>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">size</th>\\n<th style=\"text-align: left;\">material</th>\\n<th style=\"text-align: left;\">color</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">9</td>\\n<td style=\"text-align: left;\">leather</td>\\n<td style=\"text-align: left;\">brown</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">10</td>\\n<td style=\"text-align: left;\">hemp canvas</td>\\n<td style=\"text-align: left;\">natural</td>\\n</tr>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">11</td>\\n<td style=\"text-align: left;\">glass</td>\\n<td style=\"text-align: left;\">transparent</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>(The above is the caption for the table.) Pandoc also supports multi-line tables:</p>\\n<table style=\"width:46%;\">\\n<colgroup>\\n<col style=\"width: 13%\"></col>\\n<col style=\"width: 31%\"></col>\\n</colgroup>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">keyword</th>\\n<th style=\"text-align: left;\">text</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">red</td>\\n<td style=\"text-align: left;\">Sunsets, apples, and other red or reddish things.</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">green</td>\\n<td style=\"text-align: left;\">Leaves, grass, frogs and other things it\\'s not easy being.</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>A horizontal rule follows.</p>\\n<hr/>\\n<p>Here\\'s a definition list:</p>\\n<dl>\\n<dt>apples</dt>\\n<dd>Good for making applesauce. oranges\\n</dd>\\n<dd>Citrus! tomatoes\\n</dd>\\n<dd>There\\'s no \"e\" in tomatoe.\\n</dd>\\n</dl>\\n<p>Again, text is indented 4 spaces. (Put a blank line between each term/definition pair to spread things out more.)</p>\\n<p>Here\\'s a \"line block\":</p>\\n<p>Line one<br/>\\n\\xc2\\xa0\\xc2\\xa0Line too<br/>\\nLine tree</p>\\n<p>and images can be specified like so:</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"example-image.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n<p>Inline math equations go in like so: <span class=\"math inline\">\\\\(\\\\omega = d\\\\phi / dt\\\\)</span>. Display math should get its own line and be put in in double-dollarsigns:</p>\\n<p><span class=\"math display\">\\\\[I = \\\\int \\\\rho R^{2} dV\\\\]</span></p>\\n<p><span class=\"math display\">\\\\[\\n\\\\begin{aligned}\\nx&amp;=1\\\\label{eq:1}\\\\\\\\\\ny&amp;=2\\n\\\\end{aligned}\\n\\\\]</span></p>\\n<p>End of math.</p>\\n<p>And note that you can backslash-escape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>\\n<section class=\"footnotes\">\\n<hr/>\\n<ol>\\n<li id=\"fn1\"><p>Footnote text goes here.<a href=\"#fnref1\">\\xe2\\x86\\xa9</a></p></li>\\n</ol>\\n</section>\\n'\n>>> 'x' in {'x':1}\nTrue\n>>> >>> \n>>> pg = pagelevel(\"mdcontent/Glossary/Keplar's Law.md\")\n>>> pg.html\n'<h1 id=\"keplers-third-law\">Kepler\\'s Third Law</h1>\\n<p>Kepler discovered that the size of a planet\\'s orbit (the semi-major axis of the ellipse) is simply related to sidereal period of the orbit. If the size of the orbit (<span class=\"math inline\">\\\\(a\\\\)</span>) is expressed in astronomical units (<code>1 AU</code> equals the average distance between the Earth and the Sun) and the period (<span class=\"math inline\">\\\\(P\\\\)</span>) is measured in years, then Kepler\\'s Third Law says:</p>\\n<p><span class=\"math display\">\\\\[P^2 \\\\propto a^3\\\\]</span></p>\\n<p>After applying Newton\\'s Laws of Motion and Newton\\'s Law of Gravity we find that Kepler\\'s Third Law takes a more general form:</p>\\n<p><span class=\"math display\">\\\\[P^2= \\\\frac{ 4 \\\\pi^2 }{ G(M_1 + M_2) }a^3\\\\]</span></p>\\n<p>where <span class=\"math inline\">\\\\(M_1\\\\)</span> and <span class=\"math inline\">\\\\(M2_2\\\\)</span> are the masses of the two orbiting objects in solar masses. Note that if the mass of one body, such as <span class=\"math inline\">\\\\(M_1\\\\)</span>, is much larger than the other, then <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is nearly equal to <span class=\"math inline\">\\\\(M_1\\\\)</span>. In our solar system <span class=\"math inline\">\\\\(M_1 = 1\\\\)</span> solar mass, and this equation becomes identical to the first.</p>\\n<h2 id=\"example\">Example</h2>\\n<p>Phobos orbits Mars with an average distance of about <code>9380 km</code> from the center of the planet and a rotational period of about <code>7 hr 39 min</code>. Use this information to estimate the mass of Mars.</p>\\n<h2 id=\"solution\">Solution</h2>\\n<p><span class=\"math inline\">\\\\(a = 9380\\\\,km = 9.38 \\\\times 106\\\\,m\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(P = 7\\\\,hr\\\\;39\\\\,min = 7.65\\\\,hr = 27540\\\\,sec\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((27540\\\\,sec) ^ 2 = \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}}(9.38 \\\\times 10^6\\\\,m)^3\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(\\\\frac{(9.38 \\\\times 10^6\\\\,m)^3)}{(27540\\\\,s)^2} \\\\cdot \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}} = (M_1+M_2)\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((M_1+M_2) = 6.44 \\\\times 10^23\\\\,kg\\\\)</span></p>\\n<p>Since the mass of Mars is so much greater than the mass of Phobos, <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is very nearly equal to the mass of Mars, so this is a good estimate.</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"/static/mdcontent/kaJoKSq.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n'\n>>> pg.path\n\"mdcontent/Glossary/Keplar's Law.md\"\n>>> pg.filename\n\"Keplar's Law.md\"\n>>> pg.displayname\n\"Keplar's Law\"\n>>> pg.htmlname\n'keplarslawmd'\n>>> >>> d = dirlevel('mdcontent/')\n>>> d.path\n'mdcontent/'\n>>> d.named\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: dirlevel instance has no attribute 'named'\n>>> d.name\n''\n>>> d = dirlevel('mdcontent')\n>>> d.name\n'mdcontent'\n>>> >>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 67, in __init__\n  File \"<string>\", line 82, in gather_content\n  File \"<string>\", line 41, in __init__\n  File \"<string>\", line 49, in gen_html\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 50, in convert\n    outputfile=outputfile, filters=filters)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 55, in _convert\n    source, format, input_type = reader(source, format, encoding=encoding)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 96, in _read_file\n    path = os.path.exists(source)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/genericpath.py\", line 26, in exists\n    os.stat(path)\nTypeError: must be encoded string without NULL bytes, not str\n>>> >>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 67, in __init__\n  File \"<string>\", line 82, in gather_content\n  File \"<string>\", line 41, in __init__\n  File \"<string>\", line 49, in gen_html\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 50, in convert\n    outputfile=outputfile, filters=filters)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 55, in _convert\n    source, format, input_type = reader(source, format, encoding=encoding)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 96, in _read_file\n    path = os.path.exists(source)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/genericpath.py\", line 26, in exists\n    os.stat(path)\nTypeError: must be encoded string without NULL bytes, not str\n>>> >>> site = SiteGenerator()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 67, in __init__\n  File \"<string>\", line 82, in gather_content\n  File \"<string>\", line 41, in __init__\n  File \"<string>\", line 49, in gen_html\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 50, in convert\n    outputfile=outputfile, filters=filters)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 55, in _convert\n    source, format, input_type = reader(source, format, encoding=encoding)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 96, in _read_file\n    path = os.path.exists(source)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/genericpath.py\", line 26, in exists\n    os.stat(path)\nTypeError: must be encoded string without NULL bytes, not str\n>>> >>> site = SiteGenerator()\nmdcontent/.DS_Store\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\n  File \"<string>\", line 67, in __init__\n  File \"<string>\", line 83, in gather_content\n  File \"<string>\", line 41, in __init__\n  File \"<string>\", line 49, in gen_html\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 50, in convert\n    outputfile=outputfile, filters=filters)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 55, in _convert\n    source, format, input_type = reader(source, format, encoding=encoding)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/site-packages/pypandoc/__init__.py\", line 96, in _read_file\n    path = os.path.exists(source)\n  File \"/Users/bryan/.venv/astroenv/lib/python2.7/genericpath.py\", line 26, in exists\n    os.stat(path)\nTypeError: must be encoded string without NULL bytes, not str\n>>> >>> site = SiteGenerator()\nmdcontent/Glossary/Keplar's Law.md\nmdcontent/index.md\n>>> site.content_tree\n<__console__.dirlevel instance at 0x10e926f80>\n>>> site.content_tree.menus\n<bound method dirlevel.menus of <__console__.dirlevel instance at 0x10e926f80>>\n>>> site.content_tree.menus()\n['glossary', 'courses', 'labs', 'tutorials']\n>>> site.content_tree.pages()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nTypeError: 'dict' object is not callable\n>>> >>> site.content_tree.pages()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nTypeError: 'dict' object is not callable\n>>> site = SiteGenerator()\n>>> site.content_tree.pages\n{'index': <__console__.pagelevel instance at 0x10e8d90e0>}\n>>> site.content_tree.pgkeys()\n['index']\n>>> site.content_tree['index']\n<__console__.pagelevel instance at 0x10e8d90e0>\n>>> site.content_tree['index'].html\n'<h1 id=\"an-h1-header\">An h1 header</h1>\\n<p>Paragraphs are separated by a blank line.</p>\\n<p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code>monospace</code>. Itemized lists look like:</p>\\n<ul>\\n<li>this one</li>\\n<li>that one</li>\\n<li>the other one</li>\\n</ul>\\n<p>Note that --- not considering the asterisk --- the actual text content starts at 4-columns in.</p>\\n<blockquote>\\n<p>Block quotes are written like so.</p>\\n<p>They can span multiple paragraphs, if you like.</p>\\n</blockquote>\\n<p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., \"it\\'s all in chapters 12--14\"). Three dots ... will be converted to an ellipsis. Unicode is supported. \\xe2\\x98\\xba</p>\\n<h2 id=\"an-h2-header\">An h2 header</h2>\\n<p>Here\\'s a numbered list:</p>\\n<ol type=\"1\">\\n<li>first item</li>\\n<li>second item</li>\\n<li>third item</li>\\n</ol>\\n<p>Note again how the actual text starts at 4 columns in (4 characters from the left side). Here\\'s a code sample:</p>\\n<pre><code># Let me re-iterate ...\\nfor i in 1 .. 10 { do-something(i) }</code></pre>\\n<p>As you probably guessed, indented 4 spaces. By the way, instead of indenting the block, you can use delimited blocks, if you like:</p>\\n<pre><code>define foobar() {\\n    print \"Welcome to flavor country!\";\\n}</code></pre>\\n<p>(which makes copying &amp; pasting easier). You can optionally mark the delimited block for Pandoc to syntax highlight it:</p>\\n<div class=\"sourceCode\"><pre class=\"sourceCode python\"><code class=\"sourceCode python\"><span class=\"im\">import</span> time\\n<span class=\"co\"># Quick, count to ten!</span>\\n<span class=\"cf\">for</span> i <span class=\"op\">in</span> <span class=\"bu\">range</span>(<span class=\"dv\">10</span>):\\n    <span class=\"co\"># (but not *too* quick)</span>\\n    time.sleep(<span class=\"fl\">0.5</span>)\\n    <span class=\"bu\">print</span> i</code></pre></div>\\n<h3 id=\"an-h3-header\">An h3 header</h3>\\n<p>Now a nested list:</p>\\n<ol type=\"1\">\\n<li><p>First, get these ingredients:</p>\\n<ul>\\n<li>carrots</li>\\n<li>celery</li>\\n<li>lentils</li>\\n</ul></li>\\n<li><p>Boil some water.</p></li>\\n<li><p>Dump everything in the pot and follow this algorithm:</p>\\n<pre><code>find wooden spoon\\nuncover pot\\nstir\\ncover pot\\nbalance wooden spoon precariously on pot handle\\nwait 10 minutes\\ngoto first step (or shut off burner when done)</code></pre>\\n<p>Do not bump wooden spoon or it will fall.</p></li>\\n</ol>\\n<p>Notice again how text always lines up on 4-space indents (including that last line which continues item 3 above).</p>\\n<p>Here\\'s a link to <a href=\"http://foo.bar\">a website</a>, to a <a href=\"local-doc.html\">local doc</a>, and to a <a href=\"#an-h2-header\">section heading in the current doc</a>. Here\\'s a footnote <a class=\"footnoteRef\" href=\"#fn1\" id=\"fnref1\"><sup>1</sup></a>.</p>\\n<p>Tables can look like this:</p>\\n<table>\\n<caption>Shoes, their sizes, and what they\\'re made of</caption>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">size</th>\\n<th style=\"text-align: left;\">material</th>\\n<th style=\"text-align: left;\">color</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">9</td>\\n<td style=\"text-align: left;\">leather</td>\\n<td style=\"text-align: left;\">brown</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">10</td>\\n<td style=\"text-align: left;\">hemp canvas</td>\\n<td style=\"text-align: left;\">natural</td>\\n</tr>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">11</td>\\n<td style=\"text-align: left;\">glass</td>\\n<td style=\"text-align: left;\">transparent</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>(The above is the caption for the table.) Pandoc also supports multi-line tables:</p>\\n<table style=\"width:46%;\">\\n<colgroup>\\n<col style=\"width: 13%\"></col>\\n<col style=\"width: 31%\"></col>\\n</colgroup>\\n<thead>\\n<tr class=\"header\">\\n<th style=\"text-align: left;\">keyword</th>\\n<th style=\"text-align: left;\">text</th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr class=\"odd\">\\n<td style=\"text-align: left;\">red</td>\\n<td style=\"text-align: left;\">Sunsets, apples, and other red or reddish things.</td>\\n</tr>\\n<tr class=\"even\">\\n<td style=\"text-align: left;\">green</td>\\n<td style=\"text-align: left;\">Leaves, grass, frogs and other things it\\'s not easy being.</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>A horizontal rule follows.</p>\\n<hr/>\\n<p>Here\\'s a definition list:</p>\\n<dl>\\n<dt>apples</dt>\\n<dd>Good for making applesauce. oranges\\n</dd>\\n<dd>Citrus! tomatoes\\n</dd>\\n<dd>There\\'s no \"e\" in tomatoe.\\n</dd>\\n</dl>\\n<p>Again, text is indented 4 spaces. (Put a blank line between each term/definition pair to spread things out more.)</p>\\n<p>Here\\'s a \"line block\":</p>\\n<p>Line one<br/>\\n\\xc2\\xa0\\xc2\\xa0Line too<br/>\\nLine tree</p>\\n<p>and images can be specified like so:</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"example-image.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n<p>Inline math equations go in like so: <span class=\"math inline\">\\\\(\\\\omega = d\\\\phi / dt\\\\)</span>. Display math should get its own line and be put in in double-dollarsigns:</p>\\n<p><span class=\"math display\">\\\\[I = \\\\int \\\\rho R^{2} dV\\\\]</span></p>\\n<p><span class=\"math display\">\\\\[\\n\\\\begin{aligned}\\nx&amp;=1\\\\label{eq:1}\\\\\\\\\\ny&amp;=2\\n\\\\end{aligned}\\n\\\\]</span></p>\\n<p>End of math.</p>\\n<p>And note that you can backslash-escape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>\\n<section class=\"footnotes\">\\n<hr/>\\n<ol>\\n<li id=\"fn1\"><p>Footnote text goes here.<a href=\"#fnref1\">\\xe2\\x86\\xa9</a></p></li>\\n</ol>\\n</section>\\n'\n>>> site.content_tree['glossary']\n<__console__.dirlevel instance at 0x10e8d9e18>\n>>> site.content_tree['glossary'].pgkeys()\n['keplarslaw']\n>>> site.content_tree['glossary'].displayname\n'Glossary'\n>>> site.content_tree['glossary']['keplarslaw']\n<__console__.pagelevel instance at 0x10e8d9cb0>\n>>> site.content_tree['glossary']['keplarslaw'].html\n'<h1 id=\"keplers-third-law\">Kepler\\'s Third Law</h1>\\n<p>Kepler discovered that the size of a planet\\'s orbit (the semi-major axis of the ellipse) is simply related to sidereal period of the orbit. If the size of the orbit (<span class=\"math inline\">\\\\(a\\\\)</span>) is expressed in astronomical units (<code>1 AU</code> equals the average distance between the Earth and the Sun) and the period (<span class=\"math inline\">\\\\(P\\\\)</span>) is measured in years, then Kepler\\'s Third Law says:</p>\\n<p><span class=\"math display\">\\\\[P^2 \\\\propto a^3\\\\]</span></p>\\n<p>After applying Newton\\'s Laws of Motion and Newton\\'s Law of Gravity we find that Kepler\\'s Third Law takes a more general form:</p>\\n<p><span class=\"math display\">\\\\[P^2= \\\\frac{ 4 \\\\pi^2 }{ G(M_1 + M_2) }a^3\\\\]</span></p>\\n<p>where <span class=\"math inline\">\\\\(M_1\\\\)</span> and <span class=\"math inline\">\\\\(M2_2\\\\)</span> are the masses of the two orbiting objects in solar masses. Note that if the mass of one body, such as <span class=\"math inline\">\\\\(M_1\\\\)</span>, is much larger than the other, then <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is nearly equal to <span class=\"math inline\">\\\\(M_1\\\\)</span>. In our solar system <span class=\"math inline\">\\\\(M_1 = 1\\\\)</span> solar mass, and this equation becomes identical to the first.</p>\\n<h2 id=\"example\">Example</h2>\\n<p>Phobos orbits Mars with an average distance of about <code>9380 km</code> from the center of the planet and a rotational period of about <code>7 hr 39 min</code>. Use this information to estimate the mass of Mars.</p>\\n<h2 id=\"solution\">Solution</h2>\\n<p><span class=\"math inline\">\\\\(a = 9380\\\\,km = 9.38 \\\\times 106\\\\,m\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(P = 7\\\\,hr\\\\;39\\\\,min = 7.65\\\\,hr = 27540\\\\,sec\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((27540\\\\,sec) ^ 2 = \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}}(9.38 \\\\times 10^6\\\\,m)^3\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\(\\\\frac{(9.38 \\\\times 10^6\\\\,m)^3)}{(27540\\\\,s)^2} \\\\cdot \\\\frac{4 \\\\pi ^ 2}{6.673 \\\\times 10^{-11}\\\\,m^{3}kg^{-1}s^{-2}} = (M_1+M_2)\\\\)</span></p>\\n<p><span class=\"math inline\">\\\\((M_1+M_2) = 6.44 \\\\times 10^23\\\\,kg\\\\)</span></p>\\n<p>Since the mass of Mars is so much greater than the mass of Phobos, <span class=\"math inline\">\\\\(M_1 + M_2\\\\)</span> is very nearly equal to the mass of Mars, so this is a good estimate.</p>\\n<figure figure=\"figure\">\\n<img alt=\"example image\" img=\"figure-img img-fluid img-rounded\" src=\"/static/mdcontent/kaJoKSq.jpg\" title=\"An exemplary image\"/><figcaption figcaption=\"figure-caption\">example image</figcaption>\\n</figure>\\n'\n>>> site.content_tree.dirkeys()\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: dirlevel instance has no attribute 'dirkeys'\n>>> site.content_tree.pgkeys()\n['index']\n>>> site.content_tree.mkeys()\n['glossary', 'courses', 'labs', 'tutorials']\n>>> site.content_tree['index']\n<__console__.pagelevel instance at 0x10e8d90e0>\n>>> site.content_tree['index'].name\nTraceback (most recent call last):\n  File \"<console>\", line 1, in <module>\nAttributeError: pagelevel instance has no attribute 'name'\n>>> site.content_tree['index'].filename\n'index.md'\n>>> site.content_tree['index'].htmlname\n'index'\n>>> ",
+			"settings":
+			{
+				"buffer_size": 79933,
+				"line_ending": "Unix",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"BracketHighlighter: Select Next Attribute (left)"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/mdcontent",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/mdcontent/Glossary",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/mdcontent/Labs",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/static",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/static/mdcontent",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/templates"
+	],
+	"file_history":
+	[
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/static/additional.js",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/templates/layout.html",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/templates/index.html",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/static/additional.css",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/static/mdcontent/DomeWdLeft-W-S.gif",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/mdcontent/Home.md",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/mdcontent/Glossary/Keplar's Law.md",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/ituHelpers.py",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/mdcontent/Glossary/Percent Error Formula.md",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/mdcontent/Glossary/Significant Figures.md",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/ituApp.py",
+		"/Users/bryan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bryan/Library/Application Support/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/Users/bryan/Desktop/UIowa-Astronomy-Site/astrosite.sublime-project",
+		"/Users/bryan/Desktop/markdownApp/ituApp.py",
+		"/Users/bryan/Desktop/markdownApp/templates/layout.html",
+		"/Users/bryan/Desktop/markdownApp/ituHelpers.py",
+		"/Users/bryan/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/bryan/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/bryan/Desktop/markdownApp/mdcontent/Glossary/new.md",
+		"/Users/bryan/Desktop/markdownApp/mdcontent/Courses/touch.md",
+		"/Users/bryan/Desktop/markdownApp/static/example.md",
+		"/Users/bryan/Desktop/markdownApp/templates/header.html",
+		"/Users/bryan/Desktop/flaskTutorial/static/style.css",
+		"/Users/bryan/Desktop/flaskTutorial/templates/login.html",
+		"/Users/bryan/Desktop/flaskTutorial/templates/show_entries.html",
+		"/Users/bryan/Desktop/flaskTutorial/templates/layout.html",
+		"/Users/bryan/Desktop/flaskTutorial/flasker.py",
+		"/Users/bryan/Desktop/Class Parsing/fixer.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW6/modOfPowers.py",
+		"/Users/bryan/Documents/GitHubVisualStudio/HPN-Fsharp-PLC/ConsoleApplication1/ConsoleApplication1/HPNtypes.fs",
+		"/Users/bryan/Documents/GitHubVisualStudio/HPN-Fsharp-PLC/ConsoleApplication1/ConsoleApplication1/HPNConverterMain.fs",
+		"/Users/bryan/Documents/GitHubVisualStudio/HPN-Fsharp-PLC/ConsoleApplication1/ConsoleApplication1/HPNparser.fs",
+		"/Users/bryan/.emacs",
+		"/Users/bryan/.ssh/config",
+		"/Volumes/C/sw_license_email_2410438.dat",
+		"/Users/bryan/Desktop/HPN_App/PLC_HPN_Converter/PLC_HPN_Converter/bin/Release/build.sh",
+		"/Users/bryan/.bash_profile",
+		"/Users/bryan/Downloads/fparsec-main-6faaf8520b87/Samples/JSON/parser.fs",
+		"/Users/bryan/Downloads/fparsec-main-6faaf8520b87/Samples/JSON/main.fs",
+		"/Users/bryan/Downloads/fparsec-main-6faaf8520b87/Samples/JSON/ast.fs",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem2/Computer Science I - Fundamentals/Project 2/project2Phase2b.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem1/22c005/HW10/Prather-HuffHW10.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem2/Computer Science I - Fundamentals/Project 2/testProject2Phase2a.py",
+		"/Users/bryan/Desktop/untitled.html",
+		"/Users/bryan/Desktop/untitled.css",
+		"/Users/bryan/Desktop/LightController/celery.py",
+		"/Users/bryan/Desktop/recSD.img",
+		"/Users/bryan/Desktop/ping-pong/tasks.py",
+		"/Users/bryan/Desktop/ping-pong/arduinocontrol.py",
+		"/Users/bryan/Desktop/ping-pong/LightController.ino",
+		"/Users/bryan/Desktop/ping-pong/celery.py",
+		"/Users/bryan/Desktop/ping-pong/pingpongctrl.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW4/virus.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW4/dfsArtic.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW4/alg.py",
+		"/Users/bryan/Desktop/mono.scpt",
+		"/Users/bryan/Desktop/flaskTutorial/schema.sql",
+		"/Users/bryan/Desktop/flaskTutorial/hello.py",
+		"/Users/bryan/Desktop/flaskTutorial/templates/index.html",
+		"/Users/bryan/Desktop/flaskTutorial/templates/hello.html",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW3/progressbarex.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW3/graphAnalysisThreaded.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW3/theadingvsmutiprocessing.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW3/graphAnalysis.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW3/neighborhoodDegree.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW3/smallGraph.txt",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW3/neighborhoodDegree2.py",
+		"/Users/bryan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bryan/Downloads/seabreeze-3.0.10/sample-code/cpp/data-collection.cpp",
+		"/Users/bryan/Desktop/microsoftchallange/foursidefig.py",
+		"/Users/bryan/Desktop/microsoftchallange/matrixmult.py",
+		"/Users/bryan/Desktop/microsoftchallange/fig.txt",
+		"/Users/bryan/Desktop/microsoftchallange/bubble.py",
+		"/Users/bryan/Desktop/ant.awk",
+		"/Users/bryan/Desktop/ant.c",
+		"/Users/bryan/Desktop/game.c",
+		"/Users/bryan/Desktop/dlsked/dlsked.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/bfs/bfs-st.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Computer Organization/HW2/problem3.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Computer Organization/HW2/problem2.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW2/primetest.py",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Computer Organization/HW2/problem1.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/HW2/primetest.c",
+		"/Users/bryan/.ssh/known_hosts",
+		"/Users/bryan/Desktop/LearnC/1.HelloWorld.s",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Computer Organization/HW1/problem1.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Computer Organization/HW1/problem3.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Computer Organization/HW1/problem2.asm",
+		"/Users/bryan/Desktop/addup.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/nat.agda",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/bpratherhuff/hw1/bool-todo.agda",
+		"/Users/bryan/Desktop/sampleMIPS.asm",
+		"/Users/bryan/Desktop/untitled.py",
+		"/Users/bryan/Google Drive/HW1/problem1.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/3820-fall15/lec/sep3-first-thms/inclass.agda",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Algorithms/gale-shapleyAlg/gale-shapley.py",
+		"/Users/bryan/Desktop/A Sample MIPS program.asm",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/bool.agda",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/#bool.agda#",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/tree-test.agda",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/runtime-only.agda",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/Makefile",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/io-test.agda",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem5/Programming Language Concepts/ial/lib.agda",
+		"/Users/bryan/Desktop/LearnC/2.VarsAndTypes.c",
+		"/Users/bryan/Desktop/LearnC/1.HelloWorld.c",
+		"/Users/bryan/Desktop/ticktacktoe.py",
+		"/Users/bryan/Desktop/sattelitetracker/sattelitetracker.py",
+		"/Users/bryan/Desktop/sattelitetracker.py",
+		"/Users/bryan/Desktop/LearnC/iota.c",
+		"/Users/bryan/Downloads/agar.io.html",
+		"/Users/bryan/Google Drive/UIowa/UIowa Sem2/Computer Science I - Fundamentals/HW2/hw2c.py",
+		"/Users/bryan/Desktop/coloringproblem.pl",
+		"/Users/bryan/Desktop/quicksort.pl",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/wsgi.py",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/settings-production.py",
+		"/Users/bryan/Desktop/AstroSite/settings-devl",
+		"/Users/bryan/Desktop/AstroSite/astroEngine/urls.py",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/urls.py",
+		"/Users/bryan/Desktop/simple.py",
+		"/Users/bryan/Desktop/AstroSite/requirments.txt",
+		"/Users/bryan/Desktop/AstroSite/env/lib/python2.7/config/Makefile",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/middleware.py",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/settings.py",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/templates/ga.html",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/templates/header.html",
+		"/Users/bryan/Desktop/AstroSite/AstroSite/templates/conditions_gemini.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"()\n",
+			"r",
+			"between",
+			"n",
+			"root",
+			"self.",
+			"AdaptiveETA",
+			"16",
+			"ra",
+			"$ra",
+			"pow",
+			"legend"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"neighbor",
+			"u",
+			"",
+			"$s0",
+			"$a0",
+			"np.power",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mdcontent/Glossary/Small-Angle Formula.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1058,
+								1058
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ituHelpers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1138,
+								1124
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mdcontent/Glossary/Significant Figures.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "mdcontent/Glossary/Keplar's Law.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "mdcontent/Glossary/Percent Error Formula.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1413,
+								1413
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 290.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mdcontent/Home.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79933,
+								79933
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": false,
+							"default_dir": "/Users/bryan/Desktop/UIowa-Astronomy-Site",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"incomplete_sync": null,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "b0514cbc0b1a47eb852891c843bf0bb0",
+							"repl_restart_args":
+							{
+								"autocomplete_server": true,
+								"cmd":
+								[
+									"/Users/bryan/.venv/astroenv/bin/python",
+									"-u",
+									"${packages}/SublimeREPL/config/Python/ipy_repl.py"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PATH": "/Users/bryan/.venv/astroenv/bin:{PATH}",
+									"PYTHONIOENCODING": "utf-8",
+									"SUBLIMEREPL_ACTIVATE_THIS": "/Users/bryan/.venv/astroenv/bin/activate_this.py"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.690847671449,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LightController":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "astrosite.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$(BUILDPYTHON)-gdb.py:"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
